@@ -1,4 +1,4 @@
 android-myfirstapp
 ==================
 
-My first app in Android. Gotta start somewhere, right?
+First test app in Android using Eclipse (deprecated).
